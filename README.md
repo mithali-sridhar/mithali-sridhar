@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mithali-sridhar
+- 👀 I’m interested in data analytics and project management
+- 🌱 I’m currently learning data analytics tools like Power BI, Tableau, SQL, python
+- 💞️ I’m looking to collaborate on projects 
+- 📫 How to reach me : ig -  mithalisridhar
